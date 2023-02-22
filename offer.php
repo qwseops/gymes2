@@ -1,5 +1,5 @@
 <?php
 
-header("Location:https://saleegoods.com/page/1e18fec3597c903cc7e7c467cac311967aa91265/")
+header("Location:https://nametovar.com/page/2fca2584d3f928fbda7974467f34453406df785d/")
 
 ?>
